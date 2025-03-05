@@ -34,11 +34,11 @@
 **Truy cập: http://localhost:8000**
 ## DEMO:
 ## Khi chưa đăng nhập
-![Demo](DEMO/Dashboard.png)
+![Demo](images/Dashboard.png)
 ## View Tính Lương
-![Demo](DEMO/BangLuong.png)
+![Demo](images/BangLuong.png)
 ## View Chấm Công
-![Demo](DEMO/ChamCong.png)
+![Demo](images/ChamCong.png)
 ## View Danh Sách Thông Tin Nhân Viên
-![Demo](DEMO/DanhSachNhanVien.png)
+![Demo](images/DanhSachNhanVien.png)
 
