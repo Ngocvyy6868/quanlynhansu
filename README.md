@@ -33,12 +33,12 @@
     php artisan serve
 **Truy cập: http://localhost:8000**
 ## DEMO:
-Khi chưa đăng nhập
+## Khi chưa đăng nhập
 ![Demo](DEMO/Dashboard.png)
-View Tính Lương
+## View Tính Lương
 ![Demo](DEMO/BangLuong.png)
-View Chấm Công
+## View Chấm Công
 ![Demo](DEMO/ChamCong.png)
-View Danh Sách Thông Tin Nhân Viên
+## View Danh Sách Thông Tin Nhân Viên
 ![Demo](DEMO/DanhSachNhanVien.png)
 
